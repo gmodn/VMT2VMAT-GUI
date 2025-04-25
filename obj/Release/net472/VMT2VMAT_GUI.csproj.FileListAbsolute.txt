@@ -1,0 +1,12 @@
+C:\Users\gmanc\source\tools\obj\Release\net472\VMT2VMAT_GUI.csproj.AssemblyReference.cache
+C:\Users\gmanc\source\tools\obj\Release\net472\VMT2VMAT_GUI.MainForm.resources
+C:\Users\gmanc\source\tools\obj\Release\net472\VMT2VMAT_GUI.csproj.GenerateResource.cache
+C:\Users\gmanc\source\tools\obj\Release\net472\VMT2VMAT_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmanc\source\tools\obj\Release\net472\VMT2VMAT_GUI.AssemblyInfoInputs.cache
+C:\Users\gmanc\source\tools\obj\Release\net472\VMT2VMAT_GUI.AssemblyInfo.cs
+C:\Users\gmanc\source\tools\obj\Release\net472\VMT2VMAT_GUI.csproj.CoreCompileInputs.cache
+C:\Users\gmanc\source\tools\bin\Release\net472\VMT2VMAT_GUI.exe.config
+C:\Users\gmanc\source\tools\bin\Release\net472\VMT2VMAT_GUI.exe
+C:\Users\gmanc\source\tools\bin\Release\net472\VMT2VMAT_GUI.pdb
+C:\Users\gmanc\source\tools\obj\Release\net472\VMT2VMAT_GUI.exe
+C:\Users\gmanc\source\tools\obj\Release\net472\VMT2VMAT_GUI.pdb
